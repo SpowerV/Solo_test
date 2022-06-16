@@ -39,6 +39,18 @@ ul{
     color:#fcfcfc ;
 }
 
+input[type="number"]{
+    padding: 2px;
+    text-align: center;
+    width: 50px;
+}
+
+input[type="button"]{
+    background-color: #2493df;
+    font: bold 16px white;
+    border: none;
+    
+}
 table{
     border-collapse: collapse;
     font-weight: white;
